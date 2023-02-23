@@ -1,6 +1,0 @@
-anytree
-numpy
-pandas
-pymatching
-tqdm
-networkx
