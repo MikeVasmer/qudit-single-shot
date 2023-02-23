@@ -1,0 +1,25 @@
+.threeJS {
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+#menu-container {
+      text-align: center;
+    }
+
+#menu-content {
+      bottom: 0px;
+      right: 0px;
+      display: none;
+      background-color: #F5F5F5;
+      border-bottom: 1px solid black;
+      border-right: 1px solid black;
+      border-left: 1px solid black;
+    }
+
+#menu-content div {
+      border-top: 1px solid black;
+      padding: 10px;
+      white-space: nowrap;
+    }

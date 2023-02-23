@@ -145,3 +145,10 @@ cython_debug/
 
 # tmp
 tmp
+
+# gh-pages/jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
+.DS_Store
