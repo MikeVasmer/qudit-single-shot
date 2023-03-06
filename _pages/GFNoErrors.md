@@ -1,5 +1,5 @@
 ---
-title:
+title: Code space
 layout: default
 permalink: /GFNoErrors/
 published: true

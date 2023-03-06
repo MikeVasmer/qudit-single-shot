@@ -1,5 +1,5 @@
 ---
-title:
+title: Physical errors
 layout: default
 permalink: /GFPhysicalErrors/
 published: true

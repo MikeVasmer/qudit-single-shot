@@ -1,5 +1,5 @@
 ---
-title:
+title: Rough/Smooth cube
 layout: default
 permalink: /LogicalCube/
 published: true

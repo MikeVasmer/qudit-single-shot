@@ -1,5 +1,5 @@
 ---
-title:
+title: \(X\) type stabilizers
 layout: default
 permalink: /XStabilizer/
 published: true

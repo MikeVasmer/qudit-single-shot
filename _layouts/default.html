@@ -12,7 +12,7 @@
     {% if site.icon.size <= 4 %}
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>{{ site.icon }}</text></svg>">
     {% elsif site.icon != blank %}
-    <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/images/' | relative_url}}"/>
+    <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/images/' | relative_url}}" />
     {% endif %}
 
     <h1 class="post-headline">{{site.title}}</h1>
@@ -42,6 +42,7 @@
     <main>
       <article>
         {{ content }}
+        <p class="caption">{{page.title}}</p>
       </article>
     </main>
 

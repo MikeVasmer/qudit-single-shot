@@ -1,5 +1,5 @@
 ---
-title:
+title: Physical+measurement errors
 layout: default
 permalink: /GFMeasurementErrors/
 published: true

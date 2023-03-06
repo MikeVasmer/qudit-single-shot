@@ -1,5 +1,5 @@
 ---
-title:
+title: Orientation from colorable octahedral lattice
 layout: default
 permalink: /BBLatticeB/
 published: true

@@ -1,5 +1,5 @@
 ---
-title:
+title: \(\bf T^2\times I\)
 layout: default
 permalink: /LogicalT2xI/
 published: true
