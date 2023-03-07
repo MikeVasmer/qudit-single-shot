@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Activate virtual environment
 source venv/bin/activate
 
 python input/gen_input.py
