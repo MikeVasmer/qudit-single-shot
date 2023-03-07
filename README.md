@@ -12,7 +12,7 @@ Note: if using on a cluster it may be necessary to update CMake, gcc and the rus
 
 ## Example
 
-See `example.py` for a basic error threshold estimate
+See `example.sh` for a qutrit simulation example
 
 ## Usage
 
