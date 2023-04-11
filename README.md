@@ -4,6 +4,8 @@ Code for reproducing the numerical results described in
 
 J. C. Bridgeman, A. Kubica and M. Vasmer, "3D subsystem codes from 2D topological codes", [arXiv:23xx.xxxx](https://arxiv.org)
 
+Interactive figures from the paper are avalable [here](https://mikevasmer.github.io/qudit-single-shot/)
+
 ## Setup
 
 `pip install -r requirements.txt`
