@@ -15,8 +15,8 @@ published: true
   </ul>
   <li>Code operators</li>
   <ul>
-    <li><a href="XStabilizer">\(X\) type stabilizers</a></li>
-    <li><a href="ZStabilizer">\(Z\) type stabilizers</a></li>
+    <li>\(X\) type stabilizers: <a href="XStabilizer_A">A</a>, <a href="XStabilizer_B">B</a></li>
+    <li>\(Z\) type stabilizers: <a href="ZStabilizer_A">A</a>, <a href="ZStabilizer_B">B</a></li>
     <li>Logical operators</li>
     <ul>
       <li><a href="LogicalT2xI">\(\bf T^2\times I\)</a></li>

@@ -1,9 +1,9 @@
 ---
 title: \(X\) type stabilizers
 layout: default
-permalink: /XStabilizer/
+permalink: /XStabilizer_A/
 published: true
 ---
 
-{% include XStabilizer.html %}
+{% include XStabilizer_A.html %}
 {% include threeMenu.html %}
