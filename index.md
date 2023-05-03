@@ -12,6 +12,11 @@ published: true
   <ul>
     <li><a href="BBLatticeA">Triangulated spheres</a></li>
     <li><a href="BBLatticeB">Orientation from colorable octahedral lattice</a></li>
+    <li>Boundaries</li>
+    <ul>
+      <li><a href="RoughBoundary">Rough boundary</a></li>
+      <li><a href="SmoothBoundary">Smooth boundary</a></li>
+    </ul>
   </ul>
   <li>Code operators</li>
   <ul>
