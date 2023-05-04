@@ -16,6 +16,7 @@ published: true
     <ul>
       <li><a href="RoughBoundary">Rough boundary</a></li>
       <li><a href="SmoothBoundary">Smooth boundary</a></li>
+      <li><a href="RoughSmoothCorner">Rough-Smooth corner</a></li>
     </ul>
   </ul>
   <li>Code operators</li>
