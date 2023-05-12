@@ -2,7 +2,7 @@
 
 Code for reproducing the numerical results described in
 
-J. C. Bridgeman, A. Kubica and M. Vasmer, "Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models", [arXiv:23xx.xxxx](https://arxiv.org)
+J. C. Bridgeman, A. Kubica and M. Vasmer, "Lifting topological codes: Three-dimensional subsystem codes from two-dimensional anyon models", [arXiv:2305.06365](https://arxiv.org/abs/2305.06365)
 
 Interactive figures from the paper are avalable [here](https://mikevasmer.github.io/qudit-single-shot/)
 
